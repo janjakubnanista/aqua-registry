@@ -1,0 +1,4 @@
+registries:
+  - name: op
+    type: local
+    path: ../registry/registry.yaml # Relative path from aqua.yaml

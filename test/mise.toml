@@ -1,0 +1,6 @@
+[tools]
+
+"aqua:go"="1.23.7"
+
+[settings.aqua]
+registry_url = "file://../registry/registry.yaml"
