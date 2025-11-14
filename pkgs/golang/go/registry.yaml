@@ -7,6 +7,7 @@ packages:
     description: The Go programming language
     format: tar.gz
     version_source: github_tag
+    version_constraint: 'semver("> 1.23.8")'
     version_filter: Version startsWith "go" and not (Version contains "rc" or Version contains "beta")
     files:
       - name: go

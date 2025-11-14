@@ -1,6 +1,6 @@
 [tools]
 
-"aqua:golang/go"="1.23.7"
+"aqua:golang/go"="1.23.6"
 
 [settings.aqua]
-registry_url = "https://github.com/janjakubnanista/aqua-registry"
+registry_url = "../"
