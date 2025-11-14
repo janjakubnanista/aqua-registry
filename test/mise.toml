@@ -1,6 +1,6 @@
 [tools]
 
-"aqua:golang/go"="1.23.6"
+"aqua:golang/go"="1.23.5"
 
 [settings.aqua]
 registry_url = "../"
