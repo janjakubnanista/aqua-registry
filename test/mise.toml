@@ -1,6 +1,6 @@
 [tools]
 
-"aqua:go"="1.23.7"
+"aqua:golang/go"="1.23.7"
 
 [settings.aqua]
-registry_url = "file://../registry/registry.yaml"
+registry_url = "https://github.com/janjakubnanista/aqua-registry"
